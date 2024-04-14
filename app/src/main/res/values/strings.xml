@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">examen2_app</string>
+    <string name="to">Enviar a </string>
+    <string name="subject">Destinatario</string>
+    <string name="message">Mensaje</string>
+    <string name="send">Enviar</string>
+</resources>
