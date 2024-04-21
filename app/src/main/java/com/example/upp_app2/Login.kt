@@ -47,7 +47,11 @@ class Login : AppCompatActivity() {
             if (validateFields()) {
 
                 register()
+<<<<<<< HEAD
                 val intent= Intent(this, EstadoLentes::class.java)
+=======
+                val intent= Intent(this, Register::class.java)
+>>>>>>> 76a6a656bd91b68e8bb7ce805d12ff2686e644ff
                 startActivity(intent)
             }
         }

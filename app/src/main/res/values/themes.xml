@@ -3,9 +3,12 @@
     <style name="Theme.Upp_app2" parent="Theme.Material3.Light.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+<<<<<<< HEAD
 
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
+=======
+>>>>>>> 76a6a656bd91b68e8bb7ce805d12ff2686e644ff
     </style>
 
 

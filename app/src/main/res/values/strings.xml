@@ -4,6 +4,9 @@
     <string name="subject">Destinatario</string>
     <string name="message">Mensaje</string>
     <string name="send">Enviar</string>
+<<<<<<< HEAD
     <string name="navigation_drawer_open">Open</string>
     <string name="navigation_drawer_close">Close</string>
+=======
+>>>>>>> 76a6a656bd91b68e8bb7ce805d12ff2686e644ff
 </resources>
